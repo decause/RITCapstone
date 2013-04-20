@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<project name="CMS Capstone" company="CMS Capstone PRogram" manager="RemyD" phase="Source Code Visualization" project-start="20130304T000000Z" mrproject-version="2" calendar="2">
+  <properties>
+    <property name="Data-Viz" type="text" owner="project" label="Data Viz" description="Data Visualization"/>
+  </properties>
+  <properties>
+    <property name="Data-Viz" value=""/>
+  </properties>
+  <phases>
+    <phase name="History"/>
+    <phase name="Source Code Visualization"/>
+    <phase name="Report Drafting"/>
+    <phase name="Report Editing"/>
+    <phase name="Presentation Draft"/>
+    <phase name="Presentation Edits"/>
+    <phase name="Capstone Defense"/>
+  </phases>
+  <calendars>
+    <day-types>
+      <day-type id="0" name="Working" description="A default working day"/>
+      <day-type id="1" name="Nonworking" description="A default non working day"/>
+      <day-type id="2" name="Use base" description="Use day from base calendar"/>
+    </day-types>
+    <calendar id="1" name="Default">
+      <default-week mon="0" tue="0" wed="0" thu="0" fri="0" sat="1" sun="1"/>
+      <overridden-day-types>
+        <overridden-day-type id="0">
+          <interval start="0800" end="1200"/>
+          <interval start="1300" end="1700"/>
+        </overridden-day-type>
+      </overridden-day-types>
+      <days/>
+      <calendar id="2" name="Capstone">
+        <default-week mon="2" tue="2" wed="2" thu="2" fri="2" sat="2" sun="2"/>
+        <overridden-day-types>
+          <overridden-day-type id="0">
+            <interval start="1200" end="1500"/>
+            <interval start="1600" end="2000"/>
+          </overridden-day-type>
+        </overridden-day-types>
+        <days/>
+      </calendar>
+    </calendar>
+  </calendars>
+  <tasks>
+    <task id="1" name="Research History of RHoK" note="" work="50400" start="20130304T000000Z" end="20130305T200000Z" work-start="20130304T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    <task id="2" name="Compile Local Coverage" note="" work="50400" start="20130305T200000Z" end="20130307T200000Z" work-start="20130306T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="1" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="3" name="Compile Brief History" note="" work="75600" start="20130310T200000Z" end="20130313T200000Z" work-start="20130311T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="2" type="FS" lag="259200"/>
+      </predecessors>
+    </task>
+    <task id="4" name="Locate Code Repositories" note="&#10;" work="126000" start="20130318T000000Z" end="20130322T200000Z" work-start="20130318T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20130318T000000Z"/>
+    </task>
+    <task id="5" name="Adapt Gource Script" note="" work="252000" start="20130322T200000Z" end="20130405T200000Z" work-start="20130325T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="4" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="6" name="Compose Backdrop and Art" note="" work="50400" start="20130405T200000Z" end="20130409T200000Z" work-start="20130408T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="5" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="7" name="Render Gource Video" note="" work="75600" start="20130409T200000Z" end="20130412T200000Z" work-start="20130410T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="6" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="8" name="Compose Narrative Account" note="" work="252000" start="20130313T200000Z" end="20130327T200000Z" work-start="20130314T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="3" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="9" name="Develop Draft Report" note="" work="403200" start="20130327T200000Z" end="20130418T200000Z" work-start="20130328T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="8" type="FS"/>
+      </predecessors>
+    </task>
+    <task id="10" name="Edit Draft Report" note="" work="126000" start="20130421T200000Z" end="20130426T200000Z" work-start="20130422T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="9" type="FS" lag="259200"/>
+      </predecessors>
+    </task>
+    <task id="11" name="Develop Presentation" note="" work="126000" start="20130422T000000Z" end="20130426T200000Z" work-start="20130422T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20130422T000000Z"/>
+    </task>
+    <task id="12" name="Defend Capstone" note="" work="25200" start="20130426T200000Z" end="20130429T200000Z" work-start="20130429T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <predecessors>
+        <predecessor id="1" predecessor-id="11" type="FS"/>
+      </predecessors>
+    </task>
+  </tasks>
+  <resource-groups/>
+  <resources/>
+  <allocations/>
+</project>
