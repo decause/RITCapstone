@@ -1,0 +1,61 @@
+Locate Code Repositories
+Adapt Multi-Gource Script
+
+Sam,
+
+I'm still recovering from west coast time, and the sizable sleep deficit I
+accumulated pulling conference and hackathon hours, but I'm so glad to be back.
+
+From the GANTT Chart:
+
+Locate Code Repositories - 100%
+    I've not only managed to locate all of the Rochester repositories, but a
+    semi-comprehensive list of most of the repositories world-wide!
+    In my experiments this makes for a much more spectacular visualization, and
+    gives a much more complete view of the scale and impact of the global
+    events of the past years.
+
+Adapt Multi-Gource Script - 65%
+    During the sprints at PyCon I had a chance to work with other hackers to
+    experiment with a variety of 'log hacks' that do things like categorize and
+    group source code commits by year, and colorize each project individually.
+    This was exhilarating for not only me, but for the folks I was working
+    with... however...
+
+    After spending some time adapting my scripts, I made an irreversible error
+    and checked out a previous version of my script, overwriting the changes
+    that I had made during the hackathon. I was able to reproduce the
+    colorizing portions, but lost the code that groups commits by date...
+    This is not a full-on disaster, but will require me to retrace my steps at
+    a later date. Luckily, I am only half-way through the Gource Script
+    Adaptation portion of my Capstone, and it is about half-way done, so I'm
+    still on track.
+
+Not on the GANTT Chart, but extremely cool nonetheless:
+    - NASA SpaceAppsChallenge Rochester Press Release went public yesterday!
+      http://www.rit.edu/news/story.php?id=49879
+
+    - Radio Interview about NASA SpaceAppsChallenge
+      I had a phone interview today recording some soundbites for a 45 second
+      radio spot on our local NPR Affiliate WXXI which should air over the
+      weekend or through Monday. I'm very excited :)
+
+    - Press release about a major gift to our program
+      http://www.rit.edu/news/story.php?id=49884
+
+      This is *great* news for our lab, as it will provide support for the next
+      2 years of operation.
+
+    - More Ink from my OpenGov talk at Harvard last weekend from LibrePlanet
+      http://openmediaboston.org/node/2561
+
+      My talk, and our lab, were cited directly in the article. Big win.
+
+
+Again, if this update does not meet the format you had in mind, let me know
+what other information I can provide in future updates, and I will adjust my
+correspondence accordingly.
+
+
+Looking Forward,
+--RemyD.

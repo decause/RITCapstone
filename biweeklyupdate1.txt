@@ -1,0 +1,87 @@
+ Research History of RHoK
+ Compile Local Articles/Coverage
+ Locate Code Repositories
+
+Sam,
+
+This week has been a blur, but excellently validating. I just got out of the
+last session, and will be forgoing some of the dinner festivities to be sure to
+make good on my committment. I'm on California time, so this will hit your
+inbox well after EOB.
+
+On the list of things from the GANTT chart, here is a quick run-down of task completion.
+
+Research History of RHoK - 85%
+    I've compiled the list of links, articles, blogposts, and any other primary
+    and secondary resources through the first dozen or so pages of search
+    engine results. This will help provide most of the "Meat" of the history
+    section, and can help me produce an organizational timeline.
+
+    I would like to supplement the historical accounts with some first-person
+    accounts from organization members. I will be reaching out to them once
+    I've got some more to show them, so they get a clear idea of where the
+    capstone is headed, outside of my abstracts.
+
+Compile Local Articles/Coverage - 100%
+    I've managed to hunt down all the local press, TV spots, and media coverage
+    of RHok-ROC hackathon. I have both written articles, newspaper clippings,
+    video, and press releases from RIT university news, and departmental press.
+
+Locate Code Repositories - 100%
+    With the help from our Keynote speaker, and upstream event organizer from
+    NASA, I was able to compile the list of all the projects we worked on at
+    the Rochester event, and the source code repositories needed to build the
+    visualizations.
+
+Things not on the list, but will be helpful for future research and
+development.
+    - Worked with the software engineers at Red Hat to develop a "live" version
+      of the Gource visualization software. This code, though not a one-to-one
+      match for the needs of my capstone, helped me to broaden my knowledge and
+      understanding, and should help me build a better end-product. This has
+      also led to an opportunity for partnership between our lab and other
+      departments of Red Hat we had previously not had any interaction with. It
+      will likely result in a summer co-op student being hired to continue
+      researching alternate configurations for the same tools that underly my
+      capstone research. I look forward to assisting in this capacity, and will
+      be in an even better position to contribute to the research when the time
+      comes.
+
+    - Attended a 2-part session at the PyCon Conference about Source Code
+      Visualization using the popular on-line code forge Github.com. This was
+      not quite as directly related to my research as I would have hoped, but
+      was good for showing me the capabilities of web-based libraries for
+      generating visualizations from developer activity. I took note of each
+      library and service leveraged by the presenters, and look forward to
+      diving into their code once the project is officially released.
+
+    - Facilitated the first-ever PyCon Education Summit.
+      With help from our students and Prof. Jacobs, I chaired, MC'd, and ran
+      the 'Unconference' portion of the Summit. Audience members pitched
+      sessions and lightning talks (5 minute presentations), and our group
+      handled the voting and selection process, assisted with A/V support, and
+      gave a few presentations ourselves. Organizing a group of 100 hackers and
+      educators from both K-12, University, and Community groups was both very
+      exciting and very stressful at the same time, but the feedback we
+      recieved was *very* positive. The shining moment was when the conference
+      chair during the kick-off and introduction made a point to tell the
+      audience of 2500+ attendees that the EDU summit was a "huge success"
+      based on accounts from attendees, and the conference organizers, online
+      and offline :)
+
+    - I will be helping to run the Open Government Sprints at PyCon this year,
+      working with industry, non-profit, and academic stakeholders in the Open
+      Data field. The fruits of the labor will then become part of the panel
+      discussion I am delivering at Harvard next weekend entitled "Free
+      Software and Democracy." I'm very much looking forward to experimenting
+      more with gource during the sprints, and getting input from other hackers
+      on my capstone research and development. LibrePlanet will provide another
+      opportunity to share my capstone with other thought leaders, including
+      faculty and researchers from Harvard and MIT (among other universities.)
+
+If this update does not meet the format you had in mind, let me know what other
+information I can provide in future updates, and I will adjust my
+correspondence accordingly.
+
+Looking Forward,
+--RemyD.
