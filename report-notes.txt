@@ -28,3 +28,15 @@ County. One member of the community took it upon himself to categorize and
 index all of the meeting minutes from each town hall and city council meeting,
 and provide links to the source documents.
 
+Brief History of RHoK
+
+"an intitative that seeks to make the world a better place by building a
+community of innovation." By bringing together developers and subject matter
+experts (SMEs) who volunteer their time to solve real-world problems. In its
+current incarnation, Random Hacks of Kindness is sponsored as a joint
+initiative by Google, Microsoft, The World Bank, Hewlett-Packard, NASA, Yahoo!
+and others. RHoK's impact comes not only from bringing together resources (both
+human and capital) to solve problems, to be properly scope and refine problems
+so that they are broken down into achievable units.
+    The first ever coding marathon or RHoK #0 was a proof-of-concept event held in Mountain View California.
+(RHoK Event Planning Kit, p. 2)
