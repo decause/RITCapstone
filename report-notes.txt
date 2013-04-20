@@ -1,0 +1,30 @@
+The PeaceCorps in just this year's winter hackathon had listed dozens
+challenges submitted by volunteers working in the field from Costa Rica, to
+Mongolia. These challenges were listed at
+http://innovationchallenge.peacecorps.gov, and were submitted as part of the
+Random Hacks of Kindness Global Hackathon.
+
+As the lead organizer of the Rochester Hackathon event, I had the privilege of
+working with Peace Corps Volunteers (PCVs) and Returned Peace Corps Volunteers
+(RPCVs) to match our hackahton attendees with challenges submitted from the
+field in Africa, and elsewhere.
+
+The PeaceCorps was not the only governmental organization in need, and we
+didn't have to look halfway around the world for folks who needed help. Our
+hackathon was not even a month after Hurricane Sandy had ravaged the east
+coast. Residents in Down State New York were devastated, and are still
+struggling to get back on their feet, even as I write this proposal. Through
+attending another Hackathon at CapitolCamp2012 in Albany, we met with
+developers from Governor Cuomo's office, the New York State Senate, and many
+other agencies. These civil servants had been tirelessly monitoring social
+media channels, and updating the state websites with the latest aid and relief
+information for those affected by the storm. In that hackathon began an effort
+to develop a storm resources website that was optimized for mobile browsers,
+that would become the largest and most active project at RHoK Rochester.
+
+Not all of our projects were reactive, disaster or crisis related. Some were
+proactive informative sites that improved civic engagement here in Monroe
+County. One member of the community took it upon himself to categorize and
+index all of the meeting minutes from each town hall and city council meeting,
+and provide links to the source documents.
+
