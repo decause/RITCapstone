@@ -40,3 +40,62 @@ human and capital) to solve problems, to be properly scope and refine problems
 so that they are broken down into achievable units.
     The first ever coding marathon or RHoK #0 was a proof-of-concept event held in Mountain View California.
 (RHoK Event Planning Kit, p. 2)
+
+
+Copyright Basics 7
+License and IP 8
+Copyleft 8
+Permissive 9
+Normative 10
+Motivation 11
+Comm arch 12
+Knowledge 13
+PUblicly licensed 14
+project dssc 16
+the idea 16
+license 17
+venue 17
+accpetance 18
+flyer 18
+listing 19
+CapCamp 20
+release draft 22
+keynotes 23
+release release 23
+swag 24
+radio 24
+arrive 24
+day of 25
+project results 27
+main event 27
+press 27
+next day 28
+count down 29
+presos 29
+conc and rec 32
+prob recap 32
+overall sum 32
+recommend 35
+utliize 35
+differently 36
+specific course 38
+showing the story 40
+acknowlege 41
+ref cited 42
+
+A License to RHok Application  45
+b The Event Flyer 47
+C The Eventbrite.com Registration Page 48
+D RIT Press Release 49
+E Henrietta Post Online Article 50
+F Radio Interview with Bob Smith of WXXI 51
+G YNN News Clip 52
+H YNN Online Article 53
+I Reporter Online Article 54
+J Reporter Magazine Article 55
+K 13WHAM Online Article 56 
+L 13WHAM News Clip 57
+M Democrat & Chronicle Newspaper Article 58
+N Venue Photographs 59
+O Random Hacks of Kindness Event Planning Kit 62
+P Multi-Gource Scripts 96
