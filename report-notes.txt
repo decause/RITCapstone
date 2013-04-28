@@ -99,3 +99,70 @@ M Democrat & Chronicle Newspaper Article 58
 N Venue Photographs 59
 O Random Hacks of Kindness Event Planning Kit 62
 P Multi-Gource Scripts 96
+
+0 00000000
+1 00000001
+2 00000010
+3 00000011
+4 00000100
+5 00000101
+6 00000110
+7 00000111
+8 00001000
+9 00001001
+10 00001010
+11 00001011
+12 00001100 
+
+3099 705 Context & Trends 
+2011-12 Fall Quarter A 4.00 Taken Enrolled 4.00 16.000
+    
+ 
+3096 798 Special Topics (ST: Security Technology) 
+    2011-12 Winter Quarter A 4.00 Taken Enrolled 4.00 16.000
+    
+ 
+4085 890 Grad Seminar In IGM 2011-12 
+Winter Quarter A 4.00 Taken Enrolled 4.00 16.000
+    
+ 
+0521 749 Special Topics (St:People,Policy,Plannig) 
+2011-12 Spring Quarter B 4.00 Taken Enrolled 4.00 12.000
+    
+ 
+0535 706 Crafting The Message 
+2011-12 Spring Quarter B 4.00 Taken Enrolled 4.00 12.000
+    
+ 
+0101 703 Acctg For Decision Maker 
+2011-12 Summer Quarter W 4.00 Taken Enrolled 4.00 0.000
+    
+ 
+0106 782 Stat Analysis Dec Making 
+2011-12 Summer Quarter B 4.00 Taken Enrolled 4.00 12.000
+    
+ 
+0521 709 Public Admin & Mgmt 
+2012-13 Fall Quarter A 4.00 Taken Enrolled 4.00 16.000
+    
+ 
+0535 462 Digital Design 
+2012-13 Fall Quarter A 4.00 Taken Enrolled 4.00 16.000 
+ 
+0508 740 Grad Sci/Tech Policy Sem 
+2012-13 Winter Quarter A 4.00 Taken Enrolled
+4.00 16.000
+    
+ 
+0535 705 Electronic Comm/Society 
+2012-13 Winter Quarter B 4.00 Taken Enrolled
+4.00 12.000
+    
+ 
+4080 445 Humanitar Opn Src S/W 
+2012-13 Spring Quarter 4.00 In Progress Enrolled
+4.00 0.000
+    
+ 
+3099 775 Capstone Project 
+20123 Spring Quarter 4.00 In Progress Enrolled 4.00 0.000
